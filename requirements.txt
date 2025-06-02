@@ -1,0 +1,7 @@
+python-dotenv
+selenium
+searchtweets
+zenrows
+lxml
+easygui
+fake-useragent

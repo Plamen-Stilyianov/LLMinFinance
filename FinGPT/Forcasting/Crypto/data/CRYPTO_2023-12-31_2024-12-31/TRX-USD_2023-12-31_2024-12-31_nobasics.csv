@@ -1,0 +1,54 @@
+,Start Date,Start Price,End Date,End Price,Weekly Returns,Bin Label,News,Basics
+0,2023-12-31,0.10767299681901932,2024-01-07,0.1028980016708374,-0.0443471927897382,D5,[],{}
+1,2024-01-07,0.1028980016708374,2024-01-14,0.11115500330924988,0.08024452860441333,U5+,[],{}
+2,2024-01-14,0.11115500330924988,2024-01-21,0.1088699996471405,-0.020556912366348046,D3,[],{}
+3,2024-01-21,0.1088699996471405,2024-01-28,0.11220599710941315,0.03064202694116802,U4,[],{}
+4,2024-01-28,0.11220599710941315,2024-02-04,0.11838799715042114,0.05509509473883001,U5+,[],{}
+5,2024-02-04,0.11838799715042114,2024-02-11,0.1242780014872551,0.04975170184989475,U5,[],{}
+6,2024-02-11,0.1242780014872551,2024-02-18,0.13518600165843964,0.08777096542144802,U5+,[],{}
+7,2024-02-18,0.13518600165843964,2024-02-25,0.13761800527572632,0.0179900550904033,U2,[],{}
+8,2024-02-25,0.13761800527572632,2024-03-03,0.14068900048732758,0.02231535913813265,U3,[],{}
+9,2024-03-03,0.14068900048732758,2024-03-10,0.13387900590896606,-0.04840459847445511,D5,[],{}
+10,2024-03-10,0.13387900590896606,2024-03-17,0.12619799375534058,-0.057372790464610746,D5+,[],{}
+11,2024-03-17,0.12619799375534058,2024-03-24,0.12018799781799316,-0.047623545814832524,D5,[],{}
+12,2024-03-24,0.12018799781799316,2024-03-31,0.12298700213432312,0.0232885509963201,U3,[],{}
+13,2024-03-31,0.12298700213432312,2024-04-07,0.12054400146007538,-0.01986389319075821,D2,[],{}
+14,2024-04-07,0.12054400146007538,2024-04-14,0.11259199678897858,-0.06596765143664607,D5+,[],{}
+15,2024-04-14,0.11259199678897858,2024-04-21,0.11134699732065201,-0.011057619580723488,D2,[],{}
+16,2024-04-21,0.11134699732065201,2024-04-28,0.12134400010108948,0.08978241911318507,U5+,[],{}
+17,2024-04-28,0.12134400010108948,2024-05-05,0.12111099809408188,-0.0019201774031966101,D1,[],{}
+18,2024-05-05,0.12111099809408188,2024-05-12,0.12731699645519257,0.0512422361203706,U5+,[],{}
+19,2024-05-12,0.12731699645519257,2024-05-19,0.12119600176811218,-0.048076807162463875,D5,[],{}
+20,2024-05-19,0.12119600176811218,2024-05-26,0.11308900266885757,-0.0668916381809852,D5+,[],{}
+21,2024-05-26,0.11308900266885757,2024-06-02,0.11472199857234955,0.014439917807690383,U2,"[{""date"": ""20240530115000"", ""headline"": ""Charting 2024's ETF Boom - Ether Entering The Arena?"", ""summary"": ""Amid a lack of Wall Street dealmaking this year, ETF issuers have been busy crafting new strategies.""}]",{}
+22,2024-06-02,0.11472199857234955,2024-06-09,0.11688199639320374,0.018828104877304686,U2,[],{}
+23,2024-06-09,0.11688199639320374,2024-06-16,0.11724500358104706,0.0031057579357398613,U1,[],{}
+24,2024-06-16,0.11724500358104706,2024-06-23,0.119159996509552,0.016333258305384346,U2,[],{}
+25,2024-06-23,0.119159996509552,2024-06-30,0.12452699989080429,0.04504031166887512,U5,"[{""date"": ""20240630134500"", ""headline"": ""Mid-Year Review: VanEck's 15 Crypto Predictions For 2024"", ""summary"": ""Scoreboard check! We've hit the mid-year mark of 2024, and it's time to tally up our top 15 Crypto Predictions for 2024. Click here to read more.""}]",{}
+26,2024-06-30,0.12452699989080429,2024-07-07,0.12466699630022049,0.0011242253450172157,U1,"[{""date"": ""20240630134500"", ""headline"": ""Mid-Year Review: VanEck's 15 Crypto Predictions For 2024"", ""summary"": ""Scoreboard check! We've hit the mid-year mark of 2024, and it's time to tally up our top 15 Crypto Predictions for 2024. Click here to read more.""}, {""date"": ""20240701152000"", ""headline"": ""Winter Follows Autumn"", ""summary"": ""Many investors have embraced the mythical soft landing scenario. But following bubble peaks, stocks don't just retreat from overvalued levels to fair value and stop dropping. Read more here.""}, {""date"": ""20240703043500"", ""headline"": ""The Sponsored Bull Market"", ""summary"": """"}]",{}
+27,2024-07-07,0.12466699630022049,2024-07-14,0.1376889944076538,0.1044542540840081,U5+,"[{""date"": ""20240709054500"", ""headline"": ""VanEck Crypto Monthly Recap For June 2024"", ""summary"": """"}]",{}
+28,2024-07-14,0.1376889944076538,2024-07-21,0.13434700667858124,-0.024272003317694302,D3,[],{}
+29,2024-07-21,0.13434700667858124,2024-07-28,0.13866999745368958,0.032177797496083294,U4,[],{}
+30,2024-07-28,0.13866999745368958,2024-08-04,0.12627500295639038,-0.08938483251532936,D5+,"[{""date"": ""20240731135700"", ""headline"": ""Ether ETFs Spotlight Crypto's Big Ask For Trump"", ""summary"": ""If Trump wins in November, loosening limitations on these crypto-for-the-masses products from Fidelity, BlackRock and their ilk seems an obvious target. Click to read.""}]",{}
+31,2024-08-04,0.12627500295639038,2024-08-11,0.12774500250816345,0.011641255334444489,U2,[],{}
+32,2024-08-11,0.12774500250816345,2024-08-18,0.13524499535560608,0.05871065560442057,U5+,[],{}
+33,2024-08-18,0.13524499535560608,2024-08-25,0.16655699908733368,0.23152060931642948,U5+,[],{}
+34,2024-08-25,0.16655699908733368,2024-09-01,0.1556670069694519,-0.06538297506291912,D5+,[],{}
+35,2024-09-01,0.1556670069694519,2024-09-08,0.1531910002231598,-0.015905790151011345,D2,"[{""date"": ""20240906144900"", ""headline"": ""VanEck Crypto Monthly Recap For August 2024"", ""summary"": ""Most crypto assets fell sharply in August as fundamental usage and financial statistics slipped against the broader market backdrop of rising volatility. Click to read.""}]",{}
+36,2024-09-08,0.1531910002231598,2024-09-15,0.1489579975605011,-0.027632188943817138,D3,[],{}
+37,2024-09-15,0.1489579975605011,2024-09-22,0.1518629938364029,0.019502116861646712,U2,[],{}
+38,2024-09-22,0.1518629938364029,2024-09-29,0.15647399425506592,0.030362896859720268,U4,[],{}
+39,2024-09-29,0.15647399425506592,2024-10-06,0.15427400171756744,-0.01405979663248258,D2,"[{""date"": ""20241001093700"", ""headline"": ""The 'Everything Market' Could Last A While Longer"", ""summary"": ""We are currently in the 'everything market'. It doesn\u00e2\u0080\u0099t matter what you have probably invested in; it is currently increasing in value. Click to read.""}]",{}
+40,2024-10-06,0.15427400171756744,2024-10-13,0.16261500120162964,0.05406613811270833,U5+,[],{}
+41,2024-10-13,0.16261500120162964,2024-10-20,0.15672600269317627,-0.036214361928094685,D4,[],{}
+42,2024-10-20,0.15672600269317627,2024-10-27,0.16387100517749786,0.04558913238098361,U5,[],{}
+43,2024-10-27,0.16387100517749786,2024-11-03,0.16516299545764923,0.007884190853360229,U1,"[{""date"": ""20241101080000"", ""headline"": ""A Look Back At Crypto ETFs"", ""summary"": ""Bitcoin interest has remained relatively high, and bitcoin prices have now reached over $70,000. This year has been one of the busiest in terms of crypto ETF launches. Read more here...""}]",{}
+44,2024-11-03,0.16516299545764923,2024-11-10,0.16407500207424164,-0.006587391929971265,D1,[],{}
+45,2024-11-10,0.16407500207424164,2024-11-17,0.19948799908161163,0.21583420118651664,U5+,[],{}
+46,2024-11-17,0.19948799908161163,2024-11-24,0.2088329941034317,0.04684489826376459,U5,[],{}
+47,2024-11-24,0.2088329941034317,2024-12-01,0.20734000205993652,-0.0071492153330700026,D1,"[{""date"": ""20241125123500"", ""headline"": ""Is The Market Cautiously Rotating At New Highs?"", ""summary"": ""Even without a boost from NVDA's earnings, the market resumed its bull trend in some encouraging ways. Looking into next week\u00e2\u0080\u0099s holiday trading, there are some interesting seasonal trends.""}, {""date"": ""20241128063000"", ""headline"": ""Dawn Of A New Era At The SEC: Implications Of Gensler's Exit"", ""summary"": ""Gary Gensler\u00e2\u0080\u0099s resignation as SEC Chair signals a major shift. This can affect cryptocurrencies, private funds, environmental disclosures, and the broader philosophy of market regulation.""}]",{}
+48,2024-12-01,0.20734000205993652,2024-12-08,0.3188230097293854,0.5376820997485185,U5+,"[{""date"": ""20241203102000"", ""headline"": ""Renaissance Or Prelude To Chaos? Crypto's Role In The Trump Era"", ""summary"": ""Buoyed by promises for the sector from Trump\u00e2\u0080\u0099s reelection, cryptos have soared to unprecedented levels. Is crypto undergoing a reinvention or is this yet another phase of speculative excess?""}, {""date"": ""20241206094600"", ""headline"": ""VanEck Crypto Monthly Recap For November 2024"", ""summary"": ""Ethereum and Bitcoin continued to climb on the back of increased on-chain activity and evolving technical roadmaps. Click to read.""}]",{}
+49,2024-12-08,0.3188230097293854,2024-12-15,0.2852959930896759,-0.10515871068454863,D5+,"[{""date"": ""20241209093000"", ""headline"": ""Did We Learn Anything From The Sock Puppet In 2000?"", ""summary"": ""Bitcoin over $100k, market rotation, and elevated consumer sentiment point to an acceleration of new AI and crypto trends in 2025. Consumer Discretionary and Risk-On lead S&P 500 sectors.""}, {""date"": ""20241211022000"", ""headline"": ""The 4 Trump Policies Most Likely To Impact Economic Growth"", ""summary"": ""Deregulation and tax cuts could potentially provide a boost to US economic and market growth.""}, {""date"": ""20241214040000"", ""headline"": ""Surprise Liquidity In The FTSE Digi50 Index"", ""summary"": ""The FTSE Digi50 Index highlights that digital assets like Bitcoin and Ethereum exhibit liquidity levels exceeding many small-cap stocks.""}, {""date"": ""20241214050000"", ""headline"": ""VanEck's 10 Crypto Predictions For 2025"", ""summary"": ""We believe the crypto bull market will persist through 2025, reaching its first peak in the first quarter. Read more here.""}]",{}
+50,2024-12-15,0.2852959930896759,2024-12-22,0.2438870072364807,-0.14514394473174141,D5+,"[{""date"": ""20241220075000"", ""headline"": ""The Top Investment Trends For Ultra-High Net Worth Investors In 2025"", ""summary"": ""TD Wealth's Syed Naqvi and Brad Simpson discuss the evolving investment landscape in 2025 and how ultra-high net worth families are positioning themselves.""}]",{}
+51,2024-12-22,0.2438870072364807,2024-12-29,0.257286012172699,0.05493939627225064,U5+,"[{""date"": ""20241224094500"", ""headline"": ""George Selgin On Strategic Bitcoin Reserves, Debanking, And The Fed's Framework Review"", ""summary"": ""George Selgin, senior fellow & director emeritus - Center for Monetary and Financial Alternatives at Cato Institute - discusses crypto, strategic Bitcoin reserves, and Fed\u00e2\u0080\u0099s framework review""}]",{}
+52,2024-12-29,0.257286012172699,2025-01-05,0.2529659867286682,-0.016790751302604878,D2,[],{}
